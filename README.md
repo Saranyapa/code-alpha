@@ -14,10 +14,8 @@ Getting Started
 
  Clone the Repository:
    bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/Saranyapa/code-alpha/tree/main
    
-
-   Replace `<your-username>` with your GitHub username and `<repository-name>` with the name of your repository.
 
 
 Project Descriptions
